@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="QT" version="4">
+  <OBJECT>
+    <ID name="QT" mc="Standard.Package" uid="bd3eaa24-a134-4704-a420-b907bff9c70c"/>
+    <PID name="Controleur de ronde" mc="Standard.Project" uid="e7c34909-7fb2-4268-9aaf-8d25325138c6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[QT]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="QString" mc="Standard.Class" uid="00823c8d-bd73-4a22-84f1-39fa18e300f0"/>
+        <COMPID name="QWidget" mc="Standard.Class" uid="09ee6aee-95ee-4ef5-b8d8-9c8cd975843c"/>
+        <COMPID name="QPieSeries" mc="Standard.Class" uid="7602df5d-9804-4481-ae69-66a31cd0d8d1"/>
+        <COMPID name="QChart" mc="Standard.Class" uid="2aa9a5ca-1d99-42a6-8e04-dc090de18050"/>
+        <COMPID name="QChartView" mc="Standard.Class" uid="7a44ecc3-f40e-4ad2-a3fd-27b514187c98"/>
+        <COMPID name="QPieSlice" mc="Standard.Class" uid="9c10fd46-a423-4d17-9814-e4a2470df94e"/>
+        <COMPID name="QSqlDatabase" mc="Standard.Class" uid="740c09ac-a678-48f7-afb7-9be2abec89aa"/>
+        <COMPID name="QTableWidget" mc="Standard.Class" uid="6d0addd8-42ba-4830-a948-83e9c4ce25f7"/>
+        <COMPID name="QSqlQuery" mc="Standard.Class" uid="ff4b13ef-ba04-4c22-9e12-0fefeef174e7"/>
+        <COMPID name="QList&lt;QString&gt;" mc="Standard.Class" uid="b8a8861d-9428-43d6-803f-d08431f1ba4a"/>
+        <COMPID name="QFont" mc="Standard.Class" uid="7d9982a7-cf24-45b3-8026-7f89f47514fb"/>
+        <COMPID name="QPdfWriter" mc="Standard.Class" uid="e558c3ca-65f4-4a26-80aa-8c40982b5596"/>
+        <COMPID name="QDate" mc="Standard.Class" uid="850c4ede-494f-4658-acf3-1ad986a5392a"/>
+        <COMPID name="QTime" mc="Standard.Class" uid="c982c6fa-78c6-43f4-9300-ae61a4441536"/>
+        <COMPID name="QPainter" mc="Standard.Class" uid="0eb64c1e-b7b2-49ca-9f0c-9110f9cb1c0c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
